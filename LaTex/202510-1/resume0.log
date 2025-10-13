@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.4.14)  12 OCT 2025 23:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2025.4.14)  12 OCT 2025 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -493,9 +493,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 160.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 258.
+(Font)              <9> on input line 262.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 258.
+(Font)              <6> on input line 262.
 
 
 [1
@@ -522,7 +522,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,350b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}</Users/yihang/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/bitstrea/charter/bchb8a.pfb></Users/yihang/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/bitstrea/charter/bchr8a.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy9.pfb>
-Output written on resume0.pdf (1 page, 52109 bytes).
+Output written on resume0.pdf (1 page, 52106 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
