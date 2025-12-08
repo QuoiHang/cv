@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/huang/OneDrive/文档/cv/LaTex/202510-1/resume0"
-(c:/Users/huang/OneDrive/文档/cv/LaTex/202510-1/resume0.tex
+**"c:/Users/huang/OneDrive/文档/cv/LaTex/202512-0_fr/resume0"
+(c:/Users/huang/OneDrive/文档/cv/LaTex/202512-0_fr/resume0.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -484,9 +484,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 160.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 262.
+(Font)              <9> on input line 255.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 262.
+(Font)              <6> on input line 255.
  [1
 
 {C:/Users/huang/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] 
@@ -504,14 +504,14 @@ L3 programming layer <2025-11-06>
  ) 
 Here is how much of TeX's memory you used:
  15448 strings out of 467870
- 259086 string characters out of 5428422
- 696164 words of memory out of 5000000
+ 259107 string characters out of 5428422
+ 697167 words of memory out of 5000000
  44127 multiletter control sequences out of 15000+600000
  660234 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,84p,357b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,84p,445b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy9.pfb>
-Output written on resume0.pdf (1 page, 52323 bytes).
+Output written on resume0.pdf (1 page, 52770 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
