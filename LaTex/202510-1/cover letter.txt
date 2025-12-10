@@ -1,0 +1,14 @@
+Application for Internship
+
+Dear Hiring Manager,
+
+I’m a Master student of Computer Science at the Université de Montréal (graduating 2026) seeking an internship in Software Engineering.
+I’ve been following your work through my connection, and I’m excited about the opportunity to contribute and learn from your team.
+
+Across my coursework and projects, I’m comfortable with C++, Python, Java, SQL, and Docker, and I value good engineering practices—version control, readable code, and pragmatic testing. I learn quickly, communicate clearly, and enjoy shipping features in collaborative environments.
+
+I’m available to start from Jan 2026 for an internship. I’d welcome the chance to discuss how my background can support your goals. My résumé is attached, and code samples are available on GitHub.
+
+Thank you for your time and consideration.
+
+
